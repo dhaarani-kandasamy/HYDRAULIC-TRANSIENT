@@ -1,0 +1,21 @@
+# Data for the sewer in Hamburg
+# cs: 1=circle, 2=trapezoid, 3=parable,
+eps=0.0001
+rho=1000
+g=9.8065
+cs=1
+d1=.6
+d2=.2
+d3=.6
+Q1=.7
+Q2=.04
+T=10
+L1=1894.91
+sumZ1=1.463
+ks1=3E-5
+L2=394.75
+sumZ2=.28
+ks2=1E-5
+L3=225.38
+sumZ3=.28
+ks3=3E-5

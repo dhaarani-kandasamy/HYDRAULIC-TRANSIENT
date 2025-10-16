@@ -1,0 +1,5 @@
+Data for Potential Flow Problems
+#
+SQ=[-.01,+.01]
+SposX=[10,5]
+SposY=[7,13]

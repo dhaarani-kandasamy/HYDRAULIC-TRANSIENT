@@ -1,0 +1,18 @@
+Geometry data for open channel hydraulics; standardised; [m]:
+cs: 1=circle, 2=trapezoid, 3=parable
+eps=0.001
+rho=1000
+g=9.8065
+n=0.02
+ks=0
+JB=6.25e-5
+cs=2
+b=19
+m=1.5
+a=0
+d=0
+Q=200
+nue=0.000001
+T=10
+dx=10
+L=1600
